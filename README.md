@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Basit
-- 👀 I’m interested web development and Networking.
-- 🌱 I’m currently learning frontend web development
+- 👀 I’m interested in web development and Networking.
+- 🌱 I’m currently learn frontend web development.
 - 💞️ I’m looking to collaborate on Jabascript.
 - 📫 How to reach me through Email ab99784418@gmail.com
 - 😄 Pronouns: ABG
